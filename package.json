@@ -1,0 +1,11 @@
+{
+  "name": "dist",
+  "version": "1.0.0",
+  "description": "Find 1,000,000 recipes.",
+  "main": "controller.a4f6123d.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amirhossein Kamalian",
+  "license": "ISC"
+}
